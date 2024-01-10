@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="Group_6056" data-name="Group 6056" transform="translate(-347 -1437)">
+    <g id="Rectangle_2935" data-name="Rectangle 2935" transform="translate(347 1437)" fill="none" stroke="#ec2227" stroke-width="1.8">
+      <rect width="68" height="68" rx="10" stroke="none"/>
+      <rect x="0.9" y="0.9" width="66.2" height="66.2" rx="9.1" fill="none"/>
+    </g>
+    <g id="Group_6052" data-name="Group 6052" transform="translate(-992.262 1906.229) rotate(-45)">
+      <path id="Path_6472" data-name="Path 6472" d="M23.375,0H0" transform="translate(1310.085 662.905) rotate(180)" fill="none" stroke="#ec2227" stroke-width="1.8"/>
+      <path id="Polygon_5" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(1313.444 658.339) rotate(90)" fill="#ec2227"/>
+    </g>
+    <g id="Group_6053" data-name="Group 6053" transform="translate(389.46 1473.001) rotate(45)">
+      <path id="Path_6472-2" data-name="Path 6472" d="M23.375,0H0" transform="translate(23.375 4.435) rotate(180)" fill="none" stroke="#ec2227" stroke-width="1.8"/>
+      <path id="Polygon_5-2" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(26.733 0) rotate(90)" fill="#ec2227"/>
+    </g>
+    <g id="Group_6054" data-name="Group 6054" transform="translate(373 1468.269) rotate(-135)">
+      <path id="Path_6472-3" data-name="Path 6472" d="M23.376,0H0" transform="translate(23.376 4.435) rotate(180)" fill="none" stroke="#ec2227" stroke-width="1.8"/>
+      <path id="Polygon_5-3" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(26.734) rotate(90)" fill="#ec2227"/>
+    </g>
+    <g id="Group_6055" data-name="Group 6055" transform="translate(379.363 1479.365) rotate(135)">
+      <path id="Path_6472-4" data-name="Path 6472" d="M23.375,0H0" transform="translate(23.375 4.565) rotate(180)" fill="none" stroke="#ec2227" stroke-width="1.8"/>
+      <path id="Polygon_5-4" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(26.734 0) rotate(90)" fill="#ec2227"/>
+    </g>
+  </g>
+</svg>

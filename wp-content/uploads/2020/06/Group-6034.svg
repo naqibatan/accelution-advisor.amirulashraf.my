@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.082" height="84.185" viewBox="0 0 80.082 84.185">
+  <g id="Group_6034" data-name="Group 6034" transform="translate(-918.022 -3425.546)">
+    <g id="Group_4784" data-name="Group 4784" transform="translate(918.822 3426.932)">
+      <g id="Group_4783" data-name="Group 4783" transform="translate(0 0)">
+        <path id="Path_4088" data-name="Path 4088" d="M375.787,464.748V502.71h57.349v-7.447l-2.6,2.6H385.479l-4.846-4.846V474.44l4.846-4.846h45.056l2.6,2.6v-7.447Z" transform="translate(-375.787 -433.252)" fill="#fff" stroke="#ec2227" stroke-miterlimit="10" stroke-width="1.6"/>
+        <path id="Path_4089" data-name="Path 4089" d="M391.336,475.451,386.49,480.3v18.577l4.846,4.846h45.056l2.6-2.6V478.052l-2.6-2.6Z" transform="translate(-381.644 -439.109)" fill="#fff" stroke="#ec2227" stroke-miterlimit="10" stroke-width="1.6"/>
+        <path id="Path_4090" data-name="Path 4090" d="M441.921,448.723l-50.079-.03v7.269h50.079Z" transform="translate(-384.573 -424.467)" fill="#fff" stroke="#ec2227" stroke-miterlimit="10" stroke-width="1.6"/>
+        <path id="Path_4091" data-name="Path 4091" d="M498.109,477.187h16.784V411.866h3.587L507.713,396.9l-1.212-1.714L505.29,396.9l-10.768,14.964h3.587Z" transform="translate(-440.761 -395.188)" fill="#fff" stroke="#ec2227" stroke-miterlimit="10" stroke-width="1.6"/>
+        <circle id="Ellipse_148" data-name="Ellipse 148" cx="14.133" cy="14.133" r="14.133" transform="translate(18.032 36.342)" fill="#fff" stroke="#ec2227" stroke-miterlimit="10" stroke-width="1.6"/>
+      </g>
+    </g>
+    <text id="RM" transform="translate(941.48 3480.266)" fill="#ec2227" font-size="11" font-family="UniversLTStd-Bold, Univers LT Std" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">RM</tspan></text>
+  </g>
+</svg>

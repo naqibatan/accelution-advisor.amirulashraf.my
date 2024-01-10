@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="Group_6222" data-name="Group 6222" transform="translate(-1255 -606)">
+    <g id="Rectangle_2934" data-name="Rectangle 2934" transform="translate(1255 606)" fill="none" stroke="#fff" stroke-width="1.8">
+      <rect width="68" height="68" rx="10" stroke="none"/>
+      <rect x="0.9" y="0.9" width="66.2" height="66.2" rx="9.1" fill="none"/>
+    </g>
+    <g id="Group_6048" data-name="Group 6048" transform="translate(-84.261 1075.229) rotate(-45)">
+      <path id="Path_6472" data-name="Path 6472" d="M23.375,0H0" transform="translate(1310.085 662.905) rotate(180)" fill="none" stroke="#fff" stroke-width="1.8"/>
+      <path id="Polygon_5" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(1313.444 658.339) rotate(90)" fill="#fff"/>
+    </g>
+    <g id="Group_6051" data-name="Group 6051" transform="translate(1297.46 642.001) rotate(45)">
+      <path id="Path_6472-2" data-name="Path 6472" d="M23.375,0H0" transform="translate(23.375 4.435) rotate(180)" fill="none" stroke="#fff" stroke-width="1.8"/>
+      <path id="Polygon_5-2" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(26.733 0) rotate(90)" fill="#fff"/>
+    </g>
+    <g id="Group_6049" data-name="Group 6049" transform="translate(1281 637.269) rotate(-135)">
+      <path id="Path_6472-3" data-name="Path 6472" d="M23.376,0H0" transform="translate(23.376 4.435) rotate(180)" fill="none" stroke="#fff" stroke-width="1.8"/>
+      <path id="Polygon_5-3" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(26.734) rotate(90)" fill="#fff"/>
+    </g>
+    <g id="Group_6050" data-name="Group 6050" transform="translate(1287.364 648.365) rotate(135)">
+      <path id="Path_6472-4" data-name="Path 6472" d="M23.375,0H0" transform="translate(23.375 4.565) rotate(180)" fill="none" stroke="#fff" stroke-width="1.8"/>
+      <path id="Polygon_5-4" data-name="Polygon 5" d="M4.5,0,9,7H0Z" transform="translate(26.734 0) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

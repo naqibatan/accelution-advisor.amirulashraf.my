@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104.801" height="112.38" viewBox="0 0 104.801 112.38">
+  <g id="Group_8366" data-name="Group 8366" transform="translate(-212.647 -488.464)">
+    <rect id="Rectangle_4932" data-name="Rectangle 4932" width="2.267" height="12.24" transform="translate(262.141 529.324)" fill="#20ab60"/>
+    <path id="Path_24301" data-name="Path 24301" d="M275.3,543h2.129v-2.129a15.093,15.093,0,0,0-15.1-15.1H260.2V527.9a15.094,15.094,0,0,0,.685,4.512,14.875,14.875,0,0,0,.563,1.511,15.136,15.136,0,0,0,3.284,4.766A15.091,15.091,0,0,0,275.3,543Z" transform="translate(-15.287 -11.905)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+    <path id="Path_24302" data-name="Path 24302" d="M276.331,543h1.1v-1.1l-6.726-6.727.617-6.436a15.237,15.237,0,0,0-1.466-.961l-.572,5.977-7.979-7.981h-1.1v1.1l5.191,5.191-4.5.351a15.026,15.026,0,0,0,.563,1.511l5.384-.419,4.406,4.406-6.506.779a14.832,14.832,0,0,0,1.606,1.367l6.3-.75Z" transform="translate(-15.287 -11.905)" fill="#20ab60"/>
+    <path id="Path_24303" data-name="Path 24303" d="M288.709,537.711h-2.792V534.92a19.77,19.77,0,0,1,8.014-15.911,20.224,20.224,0,0,1,1.923-1.261,19.706,19.706,0,0,1,9.865-2.628h2.791v2.79a19.756,19.756,0,0,1-5.945,14.148,19.425,19.425,0,0,1-2.107,1.793A19.7,19.7,0,0,1,288.709,537.711Z" transform="translate(-23.776 -8.387)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+    <path id="Path_24304" data-name="Path 24304" d="M287.355,537.711h-1.438v-1.437l8.823-8.823-.809-8.443a20.31,20.31,0,0,1,1.923-1.261l.75,7.84,10.466-10.468h1.44v1.438l-6.808,6.808,5.909.461a19.549,19.549,0,0,1-.738,1.98l-7.062-.549-5.779,5.778,8.533,1.022a19.628,19.628,0,0,1-2.106,1.793l-8.258-.985Z" transform="translate(-23.776 -8.387)" fill="#20ab60"/>
+    <g id="Group_7933" data-name="Group 7933" transform="translate(213.897 489.714)">
+      <rect id="Rectangle_4933" data-name="Rectangle 4933" width="26.522" height="68.201" transform="translate(0 41.679)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+      <rect id="Rectangle_4934" data-name="Rectangle 4934" width="49.256" height="109.88" transform="translate(26.522)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+      <rect id="Rectangle_4935" data-name="Rectangle 4935" width="26.522" height="37.89" transform="translate(37.889 71.99)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+      <rect id="Rectangle_4936" data-name="Rectangle 4936" width="26.523" height="68.201" transform="translate(75.778 41.679)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+      <g id="Group_7931" data-name="Group 7931" transform="translate(83.356 49.257)">
+        <rect id="Rectangle_4937" data-name="Rectangle 4937" width="11.367" height="7.578" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+        <rect id="Rectangle_4938" data-name="Rectangle 4938" width="11.367" height="7.578" transform="translate(0 15.156)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+        <rect id="Rectangle_4939" data-name="Rectangle 4939" width="11.367" height="7.578" transform="translate(0 30.311)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+        <rect id="Rectangle_4940" data-name="Rectangle 4940" width="11.367" height="7.578" transform="translate(0 45.467)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+      </g>
+      <g id="Group_7932" data-name="Group 7932" transform="translate(7.578 49.257)">
+        <rect id="Rectangle_4941" data-name="Rectangle 4941" width="11.367" height="7.578" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+        <rect id="Rectangle_4942" data-name="Rectangle 4942" width="11.367" height="7.578" transform="translate(0 15.156)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+        <rect id="Rectangle_4943" data-name="Rectangle 4943" width="11.367" height="7.578" transform="translate(0 30.311)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+        <rect id="Rectangle_4944" data-name="Rectangle 4944" width="11.367" height="7.578" transform="translate(0 45.467)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+      </g>
+      <line id="Line_749" data-name="Line 749" y2="37.89" transform="translate(51.15 71.99)" fill="none" stroke="#20ab60" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>
