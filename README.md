@@ -1,2 +1,2 @@
-# accelution-advisor.naqibtech.com
+# accelution-advisor.amirulashraf.my
 website for Accelution Advisor Sdn Bhd

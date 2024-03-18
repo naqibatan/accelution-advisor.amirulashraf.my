@@ -5,7 +5,7 @@
 //  DO NOT MODIFY THIS FILE BECAUSE IT WAS GENERATED AUTOMATICALLY,
 //  SO ALL YOUR CHANGES WILL BE LOST THE NEXT TIME THE FILE IS GENERATED.
 //  IF YOU REQUIRE TO APPLY CUSTOM MODIFICATIONS, PERFORM THEM IN THE FOLLOWING FILE:
-//  /var/www/vhosts/naqibtech.com/httpdocs/wp-content/maintenance/template.phtml
+//  /var/www/vhosts/amirulashraf.my/httpdocs/wp-content/maintenance/template.phtml
 
 
 $protocol = $_SERVER['SERVER_PROTOCOL'];
@@ -23,9 +23,9 @@ header('Retry-After: 600');
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <link rel="icon" href="https://naqibtech.com/wp-content/uploads/2022/07/cropped-2pkukj-32x32.jpg">
-    <link rel="stylesheet" href="https://naqibtech.com/wp-content/maintenance/assets/styles.css">
-    <script src="https://naqibtech.com/wp-content/maintenance/assets/timer.js"></script>
+    <link rel="icon" href="https://amirulashraf.my/wp-content/uploads/2022/07/cropped-2pkukj-32x32.jpg">
+    <link rel="stylesheet" href="https://amirulashraf.my/wp-content/maintenance/assets/styles.css">
+    <script src="https://amirulashraf.my/wp-content/maintenance/assets/timer.js"></script>
     <title>Scheduled Maintenance</title>
 </head>
 
@@ -44,10 +44,10 @@ header('Retry-After: 600');
     <!--START_SOCIAL_LINKS_BLOCK-->
     <section class="social-links">
                     <a class="social-links__link" href="https://www.facebook.com/Plesk" target="_blank" title="Facebook">
-                <span class="icon"><img src="https://naqibtech.com/wp-content/maintenance/assets/images/facebook.svg" alt="Facebook"></span>
+                <span class="icon"><img src="https://amirulashraf.my/wp-content/maintenance/assets/images/facebook.svg" alt="Facebook"></span>
             </a>
                     <a class="social-links__link" href="https://twitter.com/Plesk" target="_blank" title="Twitter">
-                <span class="icon"><img src="https://naqibtech.com/wp-content/maintenance/assets/images/twitter.svg" alt="Twitter"></span>
+                <span class="icon"><img src="https://amirulashraf.my/wp-content/maintenance/assets/images/twitter.svg" alt="Twitter"></span>
             </a>
             </section>
     <!--END_SOCIAL_LINKS_BLOCK-->
