@@ -436,7 +436,7 @@ mark {
 .img-fluid,
 .img-thumbnail {
   height: auto;
-  max-width: 300%;
+  max-width: 100%;
 }
 .img-thumbnail {
   background-color: #fff;
@@ -536,13 +536,9 @@ pre code {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
   margin-left: -15px;
   margin-right: -15px;
-  justify-content:space-evenly;
-  flex-wrap: wrap;
-  flex-direction: column-reverse;
-  align-content: space-between;
-  
 }
 .no-gutters {
   margin-left: 0;
@@ -13943,7 +13939,7 @@ a:hover {
   grid-column: 1/-1;
 }
 .color-ci {
-  color: #ee273a;
+  color: #274bee;
 }
 .color-white {
   color: #fff;
@@ -20867,7 +20863,7 @@ section .container {
   width: 100%;
 }
 .section-header .emp {
-  color: #ee273a;
+  color: #274bee;
 }
 .section-header--absolute {
   position: absolute;
