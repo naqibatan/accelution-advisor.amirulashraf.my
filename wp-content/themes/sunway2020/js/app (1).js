@@ -36519,7 +36519,7 @@
               var e;
               if (null === document.querySelector(".has-iframe")) {
                 var t = function (t) {
-                  "https://sunway.com.my" === t.origin &&
+                  "https://amirulashraf.my" === t.origin &&
                     e !== document.body.offsetHeight &&
                     ((e = document.body.offsetHeight),
                     window.parent.postMessage(
