@@ -36074,12 +36074,12 @@
                   n = e.dataset.postNumber;
                 Mc()
                   .get(
-                    "https://www.sunway.com.my/stories/wp-json/wp/v2/tags?search=esg"
+                    "https://amirulashraf.my/stories/wp-json/wp/v2/tags?search=esg"
                   )
                   .then(function (e) {
                     var t = e.data[0].id;
                     return Mc().get(
-                      "https://www.sunway.com.my/stories/wp-json/wp/v2/posts?_embed",
+                      "https://amirulashraf.my/stories/wp-json/wp/v2/posts?_embed",
                       { params: { tags: t, per_page: n } }
                     );
                   })
@@ -36524,7 +36524,7 @@
                     ((e = document.body.offsetHeight),
                     window.parent.postMessage(
                       { frameHeight: e },
-                      "https://www.sunway.com.my"
+                      "https://amirulashraf.my"
                     ));
                 };
                 (window.onload = function (e) {
@@ -36534,7 +36534,7 @@
                     return t(e);
                   }),
                   window.addEventListener("message", function (e) {
-                    "https://www.sunway.com.my" === e.origin &&
+                    "https://amirulashraf.my" === e.origin &&
                       e.data.hasOwnProperty("hash") &&
                       (function (e) {
                         var t = document.getElementById(e);
@@ -36580,10 +36580,10 @@
               Mc()
                 .all([
                   Mc().get(
-                    "https://www.sunway.com.my/stories/wp-json/wp/v2/categories"
+                    "https://amirulashraf.my/stories/wp-json/wp/v2/categories"
                   ),
                   Mc().get(
-                    "https://www.sunway.com.my/stories/wp-json/wp/v2/posts?_embed&per_page=4"
+                    "https://amirulashraf.my/stories/wp-json/wp/v2/posts?_embed&per_page=4"
                   ),
                 ])
                 .then(
@@ -36646,12 +36646,12 @@
                   n = e.dataset.postNumber;
                 Mc()
                   .get(
-                    "https://www.sunway.com.my/stories/wp-json/wp/v2/tags?search=special-coverage"
+                    "https://amirulashraf.my/stories/wp-json/wp/v2/tags?search=special-coverage"
                   )
                   .then(function (e) {
                     var t = e.data[0].id;
                     return Mc().get(
-                      "https://www.sunway.com.my/stories/wp-json/wp/v2/posts?_embed",
+                      "https://amirulashraf.my/stories/wp-json/wp/v2/posts?_embed",
                       { params: { tags: t, per_page: n } }
                     );
                   })
